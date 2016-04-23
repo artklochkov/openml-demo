@@ -1,0 +1,1 @@
+script: docker build -t openml-demo .
